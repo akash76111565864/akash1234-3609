@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d0903a0.css",
+    "main.js": "/static/js/main.f67d0132.js",
+    "static/js/453.5e560239.chunk.js": "/static/js/453.5e560239.chunk.js",
+    "static/media/MacBook Air - 3.png": "/static/media/MacBook Air - 3.fbfa8ddbeeb13990342f.png",
+    "static/media/MacBook Air - 4.png": "/static/media/MacBook Air - 4.8250ca500e557d972e0a.png",
+    "static/media/MacBook Air - 2.png": "/static/media/MacBook Air - 2.20bc1d838194f08ba0e2.png",
+    "static/media/MacBook Air - 6 (1).png": "/static/media/MacBook Air - 6 (1).1fde188779bbbd46d7f2.png",
+    "index.html": "/index.html",
+    "main.6d0903a0.css.map": "/static/css/main.6d0903a0.css.map",
+    "main.f67d0132.js.map": "/static/js/main.f67d0132.js.map",
+    "453.5e560239.chunk.js.map": "/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0903a0.css",
+    "static/js/main.f67d0132.js"
+  ]
+}
